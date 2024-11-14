@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Sebas\Desktop\Master\01_RCBI\TrabajoFinal\Point-GNN\kitti_native_evaluation\src\evaluate_object_3d_offline.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Sebas\Desktop\Master\01_RCBI\TrabajoFinal\Point-GNN\kitti_native_evaluation\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{8B641027-8A97-3FFC-9931-56F6AF1E20D7}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

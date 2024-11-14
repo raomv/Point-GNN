@@ -1,0 +1,13 @@
+Restore from checkpoint checkpoints/car_auto_T2_train/model-1400000
+ 16%|███████████████████████████▌                                                                                                                                                  | 596/3769 [11:26<1:00:08,  1.14s/it]2024-11-12 21:54:17.181359: W tensorflow/core/framework/cpu_allocator_impl.cc:81] Allocation of 1442518800 exceeds 10% of system memory.
+2024-11-12 21:54:17.244927: W tensorflow/core/framework/cpu_allocator_impl.cc:81] Allocation of 1456943988 exceeds 10% of system memory.
+2024-11-12 21:54:17.437819: W tensorflow/core/framework/cpu_allocator_impl.cc:81] Allocation of 1442518800 exceeds 10% of system memory.
+2024-11-12 21:54:17.738272: W tensorflow/core/framework/cpu_allocator_impl.cc:81] Allocation of 1442518800 exceeds 10% of system memory.
+2024-11-12 21:54:18.191031: W tensorflow/core/framework/cpu_allocator_impl.cc:81] Allocation of 1442518800 exceeds 10% of system memory.
+100%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 3769/3769 [1:13:34<00:00,  1.17s/it]
+fetch input time : 0.033221372213184
+gen graph time : 0.08415220415728197
+gnn inference time : 1.0275903559072672
+decode box time : 0.0008374760972628008
+nms time : 0.023019270037870947
+total time : 1.17089491264989
